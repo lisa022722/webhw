@@ -248,7 +248,8 @@ h3{
 		max-width: 100%;
 	}
 	.adpic{
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 	}
 	.ad{
 		width: 100%;
@@ -282,10 +283,11 @@ h3{
 		width: 100%;
 		float: none;
 		text-align: center;
+		margin: 0px;
 	}
 	.pic{
-		margin: 0px;
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 		text-align: center;
 	}
 	h3{
@@ -303,6 +305,12 @@ h3{
 	}
 	#title2{
 		font-size: 40px;
+	}
+	.put{
+		margin-top: 25px;
+	}
+	.searchbutton{
+		margin-top: 25px;
 	}
 	.menu{
 		font-size: 25px;
@@ -323,7 +331,8 @@ h3{
 		max-width: 100%;
 	}
 	.adpic{
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 	}
 	.ad{
 		width: 100%;
@@ -357,10 +366,11 @@ h3{
 		width: 100%;
 		float: none;
 		text-align: center;
+		margin: 0px;
 	}
 	.pic{
-		margin: 0px;
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 		text-align: center;
 	}
 	h3{
@@ -397,7 +407,8 @@ h3{
 		max-width: 100%;
 	}
 	.adpic{
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 	}
 	.ad{
 		width: 100%;
@@ -431,10 +442,11 @@ h3{
 		width: 100%;
 		float: none;
 		text-align: center;
+		margin: 0px;
 	}
 	.pic{
-		margin: 0px;
-		width: 100%;
+		margin: 4%;
+		width: 92%;
 		text-align: center;
 	}
 	h3{
