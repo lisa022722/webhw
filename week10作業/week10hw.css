@@ -440,8 +440,27 @@ h3{
 }
 
 @media (max-width: 320px) {
+
+	.theme li {
+		display: block;
+		margin: 10px;
+		width: 100%;
+		padding-right: 0px;
+		text-align: center;
+		font-size: 20px;
+	}
+	.theme a{
+		width: 100%;
+		padding: 1px;
+
+	}
+}
+@media (max-width: 320px) {
 	.wrap{
 		max-width: 100%;
+	}
+	.sort{
+		margin-top: 20px;
 	}
 	.adpic{
 		margin: 4%;
@@ -455,8 +474,15 @@ h3{
 		width: 100%;
 		float: none;
 	}
-	 .course{
-		padding-top: 350px;
+	.course{
+		padding-top: 225px;
+	}
+	.button{
+		margin: 30%;
+		width: 40%;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		text-align: center;
 	}
 	.ad-article{
 		margin-top: 5px;
@@ -467,6 +493,8 @@ h3{
 	}
 	.fitclub{
 		text-align: center;
+		padding:35px;
+		font-size: 18px;
 	}
 	#events{
 		font-size: 45px;
@@ -487,8 +515,10 @@ h3{
 		text-align: center;
 	}
 	h3{
+		width: 96%;
+		margin:2%;
 		font-size: 30px;
-		padding-top: 530px;
+		padding-top: 250px;
 		text-align: center;
 	}
 	.word{
@@ -500,15 +530,24 @@ h3{
 		font-size: 40px;
 	}
 	#title2{
+		margin: 2%;
+    	width: 96%;
 		font-size: 40px;
 	}
 	.menu{
-		font-size: 25px;
-		text-align: center;
+		 width: 96%;
+		 margin: 2%;
+	    font-size: 25px;
+	    text-align: center;
+	    margin-top: 20px;
 	}
 	.menu li{
 	list-style-type:none; 
 	line-height:15px;
+	}
+	.search{
+		margin: 0px;
+		width: 100%;
 	}
 	.footer{
 		width: 100%;
